@@ -5,7 +5,7 @@
 #include <Adafruit_NeoPixel.h>
 
 // ejemplo "strandtest" de la libreria Adafruit NeoPixel  
-// hola
+// holalll
 #define PIN       27  
 #define NUMPIXELS 25 
 
